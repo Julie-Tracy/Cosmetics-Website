@@ -1,0 +1,15 @@
+form{
+    background-color:purple;
+    padding: 15px;
+    border-radius: 15px;
+}
+input,textarea,button{
+    margin: 8px 0;
+}
+
+.button{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
